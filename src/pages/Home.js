@@ -12,16 +12,20 @@ const Home = () => {
             </a>
         <h1 className='home-title'>inspired to return nature and magic to everyday rituals</h1>
         {/* <h2 className='home-blurb'>some more blurb</h2> */}
-        <h3 className='home-blurb'>
+        <h3 className='home-blurb-etsy'>
             find us on
             <a href='https://www.etsy.com/shop/HerbsofSmith?ref=shop_sugg_market'
             target="_blank"
             className='home-blurb-link'
-            >etsy</a> follow us on<a href='https://www.instagram.com/herbsofsmith/'
+            >etsy</a>
+          </h3>
+        <h3 className='home-blurb-ig'>follow us on<a href='https://www.instagram.com/herbsofsmith/'
             className='home-blurb-link'
             target="_blank"
             >ig</a></h3>
-            <h3 className='home-blurb-comingsoon'>web store arriving in spring</h3>
+            <h3 className='home-blurb-comingsoon'>web store arriving in spring
+          </h3>
+
         {/* <h4 className='home-blurb'>
             stockist<a href='/contact' className='home-blurb-link'>inquiry</a>
             </h4> */}

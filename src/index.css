@@ -36,6 +36,20 @@
     color:rgb(72, 71, 71)
 }
 
+.home-blurb-etsy {
+    margin: 20px;
+    font-family: 'EB Garamond', serif;
+    font-size: 25px;
+    color:rgb(72, 71, 71)
+}
+
+.home-blurb-ig {
+    margin: 20px;
+    font-family: 'EB Garamond', serif;
+    font-size: 25px;
+    color:rgb(72, 71, 71)
+}
+
 .home-blurb-comingsoon {
     margin: 40px;
     font-family: 'Noto Serif', serif;
