@@ -1,0 +1,56 @@
+* {
+    background-color: rgb(255, 249, 241);
+}
+/* HOME Styles */
+.home-main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: auto;
+    width: 100%;
+    padding: 10px;
+}
+
+.home-link-logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    padding-top: 80px;
+    padding-bottom: 45px;
+}
+
+.home-title {
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    padding: 35px;
+    font-family: 'EB Garamond', serif;
+    font-size: 28px;
+}
+.home-blurb {
+    margin: 40px;
+    font-family: 'EB Garamond', serif;
+    font-size: 25px;
+    color:rgb(72, 71, 71)
+}
+
+.home-blurb-comingsoon {
+    margin: 40px;
+    font-family: 'Noto Serif', serif;
+    font-size: 23px;
+}
+
+.home-blurb-link {
+    text-align: center;
+    color: rgb(8, 8, 8);
+    text-decoration-line: underline;
+    text-decoration-thickness: 8px;
+    text-underline-offset: 8px;
+    text-decoration-color: rgb(249, 203, 85);
+    width: 50%;
+    padding: 5px;
+    font-family: 'EB Garamond', serif;
+}
+
