@@ -1,5 +1,5 @@
 * {
-    background-color: rgb(255, 249, 241);
+    background-color: rgb(194, 220, 219);
 }
 /* HOME Styles */
 .home-main {
@@ -53,7 +53,7 @@
 .home-blurb-comingsoon {
     margin: 40px;
     font-family: 'Noto Serif', serif;
-    font-size: 23px;
+    font-size: 19px;
 }
 
 .home-blurb-link {
